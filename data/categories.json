@@ -1,0 +1,4278 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 1,
+            "name": "Categor\u00eda 0",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 15,
+                    "name": "Categor\u00eda 14",
+                    "father_id": 1,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 18,
+                            "name": "Categor\u00eda 17",
+                            "father_id": 15,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 26,
+                                    "name": "Categor\u00eda 25",
+                                    "father_id": 18,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 27,
+                                            "name": "Categor\u00eda 26",
+                                            "father_id": 26,
+                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                            "childrens_recursive": [
+                                                {
+                                                    "id": 69,
+                                                    "name": "Categor\u00eda 68",
+                                                    "father_id": 27,
+                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                    "childrens_recursive": [
+                                                        {
+                                                            "id": 81,
+                                                            "name": "Categor\u00eda 80",
+                                                            "father_id": 69,
+                                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                            "childrens_recursive": [
+                                                                {
+                                                                    "id": 90,
+                                                                    "name": "Categor\u00eda 89",
+                                                                    "father_id": 81,
+                                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                    "childrens_recursive": [
+                                                                        {
+                                                                            "id": 176,
+                                                                            "name": "Categor\u00eda 175",
+                                                                            "father_id": 90,
+                                                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                            "childrens_recursive": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Categor\u00eda 1",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 3,
+                    "name": "Categor\u00eda 2",
+                    "father_id": 2,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 4,
+                            "name": "Categor\u00eda 3",
+                            "father_id": 3,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 6,
+                                    "name": "Categor\u00eda 5",
+                                    "father_id": 4,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 8,
+                                            "name": "Categor\u00eda 7",
+                                            "father_id": 6,
+                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                            "childrens_recursive": [
+                                                {
+                                                    "id": 11,
+                                                    "name": "Categor\u00eda 10",
+                                                    "father_id": 8,
+                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                    "childrens_recursive": [
+                                                        {
+                                                            "id": 19,
+                                                            "name": "Categor\u00eda 18",
+                                                            "father_id": 11,
+                                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                            "childrens_recursive": [
+                                                                {
+                                                                    "id": 29,
+                                                                    "name": "Categor\u00eda 28",
+                                                                    "father_id": 19,
+                                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                    "childrens_recursive": [
+                                                                        {
+                                                                            "id": 39,
+                                                                            "name": "Categor\u00eda 38",
+                                                                            "father_id": 29,
+                                                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                            "childrens_recursive": [
+                                                                                {
+                                                                                    "id": 47,
+                                                                                    "name": "Categor\u00eda 46",
+                                                                                    "father_id": 39,
+                                                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                                    "childrens_recursive": [
+                                                                                        {
+                                                                                            "id": 84,
+                                                                                            "name": "Categor\u00eda 83",
+                                                                                            "father_id": 47,
+                                                                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                                            "childrens_recursive": [
+                                                                                                {
+                                                                                                    "id": 85,
+                                                                                                    "name": "Categor\u00eda 84",
+                                                                                                    "father_id": 84,
+                                                                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                                                    "childrens_recursive": [
+                                                                                                        {
+                                                                                                            "id": 283,
+                                                                                                            "name": "Categor\u00eda 282",
+                                                                                                            "father_id": 85,
+                                                                                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                                                            "childrens_recursive": [
+                                                                                                                {
+                                                                                                                    "id": 319,
+                                                                                                                    "name": "Categor\u00eda 318",
+                                                                                                                    "father_id": 283,
+                                                                                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                                                                    "childrens_recursive": []
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Categor\u00eda 12",
+                    "father_id": 2,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 44,
+                            "name": "Categor\u00eda 43",
+                            "father_id": 13,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 45,
+                                    "name": "Categor\u00eda 44",
+                                    "father_id": 44,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 83,
+                                            "name": "Categor\u00eda 82",
+                                            "father_id": 45,
+                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                            "childrens_recursive": [
+                                                {
+                                                    "id": 89,
+                                                    "name": "Categor\u00eda 88",
+                                                    "father_id": 83,
+                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                    "childrens_recursive": [
+                                                        {
+                                                            "id": 198,
+                                                            "name": "Categor\u00eda 197",
+                                                            "father_id": 89,
+                                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                            "childrens_recursive": [
+                                                                {
+                                                                    "id": 210,
+                                                                    "name": "Categor\u00eda 209",
+                                                                    "father_id": 198,
+                                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                    "childrens_recursive": [
+                                                                        {
+                                                                            "id": 316,
+                                                                            "name": "Categor\u00eda 315",
+                                                                            "father_id": 210,
+                                                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                            "childrens_recursive": [
+                                                                                {
+                                                                                    "id": 471,
+                                                                                    "name": "Categor\u00eda 470",
+                                                                                    "father_id": 316,
+                                                                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                                                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                                                                    "childrens_recursive": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 36,
+                    "name": "Categor\u00eda 35",
+                    "father_id": 2,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 68,
+                            "name": "Categor\u00eda 67",
+                            "father_id": 36,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 71,
+                                    "name": "Categor\u00eda 70",
+                                    "father_id": 68,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 52,
+                    "name": "Categor\u00eda 51",
+                    "father_id": 2,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 88,
+                            "name": "Categor\u00eda 87",
+                            "father_id": 52,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 104,
+                                    "name": "Categor\u00eda 103",
+                                    "father_id": 88,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 186,
+                                            "name": "Categor\u00eda 185",
+                                            "father_id": 104,
+                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                            "childrens_recursive": [
+                                                {
+                                                    "id": 240,
+                                                    "name": "Categor\u00eda 239",
+                                                    "father_id": 186,
+                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                    "childrens_recursive": [
+                                                        {
+                                                            "id": 496,
+                                                            "name": "Categor\u00eda 495",
+                                                            "father_id": 240,
+                                                            "created_at": "2022-11-18T10:26:08.000000Z",
+                                                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                                                            "childrens_recursive": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 369,
+                    "name": "Categor\u00eda 368",
+                    "father_id": 2,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 413,
+                            "name": "Categor\u00eda 412",
+                            "father_id": 369,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                },
+                {
+                    "id": 475,
+                    "name": "Categor\u00eda 474",
+                    "father_id": 2,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "name": "Categor\u00eda 104",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 441,
+                    "name": "Categor\u00eda 440",
+                    "father_id": 105,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "name": "Categor\u00eda 108",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 170,
+                    "name": "Categor\u00eda 169",
+                    "father_id": 109,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 305,
+                    "name": "Categor\u00eda 304",
+                    "father_id": 109,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 358,
+                            "name": "Categor\u00eda 357",
+                            "father_id": 305,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 480,
+                                    "name": "Categor\u00eda 479",
+                                    "father_id": 358,
+                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Categor\u00eda 11",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 28,
+                    "name": "Categor\u00eda 27",
+                    "father_id": 12,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 33,
+                            "name": "Categor\u00eda 32",
+                            "father_id": 28,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 34,
+                                    "name": "Categor\u00eda 33",
+                                    "father_id": 33,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 35,
+                                            "name": "Categor\u00eda 34",
+                                            "father_id": 34,
+                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                            "childrens_recursive": [
+                                                {
+                                                    "id": 42,
+                                                    "name": "Categor\u00eda 41",
+                                                    "father_id": 35,
+                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                    "childrens_recursive": [
+                                                        {
+                                                            "id": 57,
+                                                            "name": "Categor\u00eda 56",
+                                                            "father_id": 42,
+                                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                            "childrens_recursive": [
+                                                                {
+                                                                    "id": 66,
+                                                                    "name": "Categor\u00eda 65",
+                                                                    "father_id": 57,
+                                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                    "childrens_recursive": [
+                                                                        {
+                                                                            "id": 87,
+                                                                            "name": "Categor\u00eda 86",
+                                                                            "father_id": 66,
+                                                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                            "childrens_recursive": [
+                                                                                {
+                                                                                    "id": 94,
+                                                                                    "name": "Categor\u00eda 93",
+                                                                                    "father_id": 87,
+                                                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                                    "childrens_recursive": [
+                                                                                        {
+                                                                                            "id": 144,
+                                                                                            "name": "Categor\u00eda 143",
+                                                                                            "father_id": 94,
+                                                                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                                            "childrens_recursive": [
+                                                                                                {
+                                                                                                    "id": 252,
+                                                                                                    "name": "Categor\u00eda 251",
+                                                                                                    "father_id": 144,
+                                                                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                                                                    "childrens_recursive": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 390,
+                    "name": "Categor\u00eda 389",
+                    "father_id": 12,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 483,
+                    "name": "Categor\u00eda 482",
+                    "father_id": 12,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 111,
+            "name": "Categor\u00eda 110",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 115,
+                    "name": "Categor\u00eda 114",
+                    "father_id": 111,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 237,
+                            "name": "Categor\u00eda 236",
+                            "father_id": 115,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 454,
+                                    "name": "Categor\u00eda 453",
+                                    "father_id": 237,
+                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 124,
+                    "name": "Categor\u00eda 123",
+                    "father_id": 111,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 234,
+                    "name": "Categor\u00eda 233",
+                    "father_id": 111,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 257,
+                            "name": "Categor\u00eda 256",
+                            "father_id": 234,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "name": "Categor\u00eda 111",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 114,
+            "name": "Categor\u00eda 113",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 116,
+            "name": "Categor\u00eda 115",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 117,
+                    "name": "Categor\u00eda 116",
+                    "father_id": 116,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 166,
+                            "name": "Categor\u00eda 165",
+                            "father_id": 117,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 238,
+                                    "name": "Categor\u00eda 237",
+                                    "father_id": 166,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 446,
+                                            "name": "Categor\u00eda 445",
+                                            "father_id": 238,
+                                            "created_at": "2022-11-18T10:26:08.000000Z",
+                                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                                            "childrens_recursive": [
+                                                {
+                                                    "id": 460,
+                                                    "name": "Categor\u00eda 459",
+                                                    "father_id": 446,
+                                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                                    "childrens_recursive": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 194,
+                    "name": "Categor\u00eda 193",
+                    "father_id": 116,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 284,
+                            "name": "Categor\u00eda 283",
+                            "father_id": 194,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 393,
+                                    "name": "Categor\u00eda 392",
+                                    "father_id": 284,
+                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 256,
+                    "name": "Categor\u00eda 255",
+                    "father_id": 116,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 347,
+                    "name": "Categor\u00eda 346",
+                    "father_id": 116,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 421,
+                            "name": "Categor\u00eda 420",
+                            "father_id": 347,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "name": "Categor\u00eda 119",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 172,
+                    "name": "Categor\u00eda 171",
+                    "father_id": 120,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 314,
+                            "name": "Categor\u00eda 313",
+                            "father_id": 172,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 337,
+                                    "name": "Categor\u00eda 336",
+                                    "father_id": 314,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 414,
+                    "name": "Categor\u00eda 413",
+                    "father_id": 120,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 420,
+                            "name": "Categor\u00eda 419",
+                            "father_id": 414,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 121,
+            "name": "Categor\u00eda 120",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 136,
+                    "name": "Categor\u00eda 135",
+                    "father_id": 121,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 228,
+                            "name": "Categor\u00eda 227",
+                            "father_id": 136,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 353,
+                                    "name": "Categor\u00eda 352",
+                                    "father_id": 228,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 122,
+            "name": "Categor\u00eda 121",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 196,
+                    "name": "Categor\u00eda 195",
+                    "father_id": 122,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 438,
+                            "name": "Categor\u00eda 437",
+                            "father_id": 196,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                },
+                {
+                    "id": 254,
+                    "name": "Categor\u00eda 253",
+                    "father_id": 122,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 500,
+                    "name": "Categor\u00eda 499",
+                    "father_id": 122,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "name": "Categor\u00eda 122",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 130,
+            "name": "Categor\u00eda 129",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 169,
+                    "name": "Categor\u00eda 168",
+                    "father_id": 130,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 188,
+                    "name": "Categor\u00eda 187",
+                    "father_id": 130,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 404,
+                            "name": "Categor\u00eda 403",
+                            "father_id": 188,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131,
+            "name": "Categor\u00eda 130",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 134,
+            "name": "Categor\u00eda 133",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 145,
+                    "name": "Categor\u00eda 144",
+                    "father_id": 134,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 352,
+                            "name": "Categor\u00eda 351",
+                            "father_id": 145,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                },
+                {
+                    "id": 190,
+                    "name": "Categor\u00eda 189",
+                    "father_id": 134,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 139,
+            "name": "Categor\u00eda 138",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 247,
+                    "name": "Categor\u00eda 246",
+                    "father_id": 139,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 140,
+            "name": "Categor\u00eda 139",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 143,
+                    "name": "Categor\u00eda 142",
+                    "father_id": 140,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 167,
+                            "name": "Categor\u00eda 166",
+                            "father_id": 143,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 259,
+                                    "name": "Categor\u00eda 258",
+                                    "father_id": 167,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 372,
+                                            "name": "Categor\u00eda 371",
+                                            "father_id": 259,
+                                            "created_at": "2022-11-18T10:26:08.000000Z",
+                                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                                            "childrens_recursive": [
+                                                {
+                                                    "id": 495,
+                                                    "name": "Categor\u00eda 494",
+                                                    "father_id": 372,
+                                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                                    "childrens_recursive": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 142,
+            "name": "Categor\u00eda 141",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 430,
+                    "name": "Categor\u00eda 429",
+                    "father_id": 142,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 478,
+                            "name": "Categor\u00eda 477",
+                            "father_id": 430,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 146,
+            "name": "Categor\u00eda 145",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 147,
+            "name": "Categor\u00eda 146",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 328,
+                    "name": "Categor\u00eda 327",
+                    "father_id": 147,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 148,
+            "name": "Categor\u00eda 147",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 16,
+            "name": "Categor\u00eda 15",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 21,
+                    "name": "Categor\u00eda 20",
+                    "father_id": 16,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 25,
+                            "name": "Categor\u00eda 24",
+                            "father_id": 21,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 108,
+                                    "name": "Categor\u00eda 107",
+                                    "father_id": 25,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 51,
+                    "name": "Categor\u00eda 50",
+                    "father_id": 16,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 79,
+                            "name": "Categor\u00eda 78",
+                            "father_id": 51,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 132,
+                                    "name": "Categor\u00eda 131",
+                                    "father_id": 79,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 434,
+                                            "name": "Categor\u00eda 433",
+                                            "father_id": 132,
+                                            "created_at": "2022-11-18T10:26:08.000000Z",
+                                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                                            "childrens_recursive": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 158,
+                    "name": "Categor\u00eda 157",
+                    "father_id": 16,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 207,
+                            "name": "Categor\u00eda 206",
+                            "father_id": 158,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                },
+                {
+                    "id": 165,
+                    "name": "Categor\u00eda 164",
+                    "father_id": 16,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 204,
+                            "name": "Categor\u00eda 203",
+                            "father_id": 165,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 302,
+                                    "name": "Categor\u00eda 301",
+                                    "father_id": 204,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 361,
+                                            "name": "Categor\u00eda 360",
+                                            "father_id": 302,
+                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                            "childrens_recursive": [
+                                                {
+                                                    "id": 367,
+                                                    "name": "Categor\u00eda 366",
+                                                    "father_id": 361,
+                                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                                    "childrens_recursive": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 304,
+                    "name": "Categor\u00eda 303",
+                    "father_id": 16,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 417,
+                    "name": "Categor\u00eda 416",
+                    "father_id": 16,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 151,
+            "name": "Categor\u00eda 150",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 154,
+                    "name": "Categor\u00eda 153",
+                    "father_id": 151,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 179,
+                            "name": "Categor\u00eda 178",
+                            "father_id": 154,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 209,
+                                    "name": "Categor\u00eda 208",
+                                    "father_id": 179,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 222,
+                                            "name": "Categor\u00eda 221",
+                                            "father_id": 209,
+                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                            "childrens_recursive": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 338,
+                    "name": "Categor\u00eda 337",
+                    "father_id": 151,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 387,
+                            "name": "Categor\u00eda 386",
+                            "father_id": 338,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 152,
+            "name": "Categor\u00eda 151",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 197,
+                    "name": "Categor\u00eda 196",
+                    "father_id": 152,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 153,
+            "name": "Categor\u00eda 152",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 155,
+            "name": "Categor\u00eda 154",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 199,
+                    "name": "Categor\u00eda 198",
+                    "father_id": 155,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 156,
+            "name": "Categor\u00eda 155",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 396,
+                    "name": "Categor\u00eda 395",
+                    "father_id": 156,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 157,
+            "name": "Categor\u00eda 156",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 433,
+                    "name": "Categor\u00eda 432",
+                    "father_id": 157,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 458,
+                            "name": "Categor\u00eda 457",
+                            "father_id": 433,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 160,
+            "name": "Categor\u00eda 159",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 473,
+                    "name": "Categor\u00eda 472",
+                    "father_id": 160,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Categor\u00eda 16",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 161,
+            "name": "Categor\u00eda 160",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 233,
+                    "name": "Categor\u00eda 232",
+                    "father_id": 161,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 272,
+                            "name": "Categor\u00eda 271",
+                            "father_id": 233,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 323,
+                                    "name": "Categor\u00eda 322",
+                                    "father_id": 272,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 239,
+                    "name": "Categor\u00eda 238",
+                    "father_id": 161,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 294,
+                            "name": "Categor\u00eda 293",
+                            "father_id": 239,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 162,
+            "name": "Categor\u00eda 161",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 206,
+                    "name": "Categor\u00eda 205",
+                    "father_id": 162,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 388,
+                            "name": "Categor\u00eda 387",
+                            "father_id": 206,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 164,
+            "name": "Categor\u00eda 163",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 182,
+                    "name": "Categor\u00eda 181",
+                    "father_id": 164,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 270,
+                            "name": "Categor\u00eda 269",
+                            "father_id": 182,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 440,
+                                    "name": "Categor\u00eda 439",
+                                    "father_id": 270,
+                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 192,
+                    "name": "Categor\u00eda 191",
+                    "father_id": 164,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 249,
+                            "name": "Categor\u00eda 248",
+                            "father_id": 192,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                },
+                {
+                    "id": 298,
+                    "name": "Categor\u00eda 297",
+                    "father_id": 164,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 168,
+            "name": "Categor\u00eda 167",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 171,
+            "name": "Categor\u00eda 170",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 173,
+            "name": "Categor\u00eda 172",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 174,
+            "name": "Categor\u00eda 173",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 248,
+                    "name": "Categor\u00eda 247",
+                    "father_id": 174,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 289,
+                            "name": "Categor\u00eda 288",
+                            "father_id": 248,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 175,
+            "name": "Categor\u00eda 174",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 363,
+                    "name": "Categor\u00eda 362",
+                    "father_id": 175,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 178,
+            "name": "Categor\u00eda 177",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 180,
+            "name": "Categor\u00eda 179",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 183,
+            "name": "Categor\u00eda 182",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 300,
+                    "name": "Categor\u00eda 299",
+                    "father_id": 183,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 184,
+            "name": "Categor\u00eda 183",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 187,
+            "name": "Categor\u00eda 186",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 20,
+            "name": "Categor\u00eda 19",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 322,
+                    "name": "Categor\u00eda 321",
+                    "father_id": 20,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 191,
+            "name": "Categor\u00eda 190",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 343,
+                    "name": "Categor\u00eda 342",
+                    "father_id": 191,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 193,
+            "name": "Categor\u00eda 192",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 200,
+            "name": "Categor\u00eda 199",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 201,
+            "name": "Categor\u00eda 200",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 351,
+                    "name": "Categor\u00eda 350",
+                    "father_id": 201,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 477,
+                            "name": "Categor\u00eda 476",
+                            "father_id": 351,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 205,
+            "name": "Categor\u00eda 204",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 22,
+            "name": "Categor\u00eda 21",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 288,
+                    "name": "Categor\u00eda 287",
+                    "father_id": 22,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 356,
+                            "name": "Categor\u00eda 355",
+                            "father_id": 288,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 491,
+                                    "name": "Categor\u00eda 490",
+                                    "father_id": 356,
+                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 211,
+            "name": "Categor\u00eda 210",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 282,
+                    "name": "Categor\u00eda 281",
+                    "father_id": 211,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 293,
+                            "name": "Categor\u00eda 292",
+                            "father_id": 282,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 468,
+                                    "name": "Categor\u00eda 467",
+                                    "father_id": 293,
+                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 214,
+            "name": "Categor\u00eda 213",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 215,
+            "name": "Categor\u00eda 214",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 371,
+                    "name": "Categor\u00eda 370",
+                    "father_id": 215,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 217,
+            "name": "Categor\u00eda 216",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 219,
+            "name": "Categor\u00eda 218",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 427,
+                    "name": "Categor\u00eda 426",
+                    "father_id": 219,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 461,
+                            "name": "Categor\u00eda 460",
+                            "father_id": 427,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Categor\u00eda 22",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 102,
+                    "name": "Categor\u00eda 101",
+                    "father_id": 23,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 181,
+                            "name": "Categor\u00eda 180",
+                            "father_id": 102,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 232,
+                                    "name": "Categor\u00eda 231",
+                                    "father_id": 181,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 362,
+                    "name": "Categor\u00eda 361",
+                    "father_id": 23,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 221,
+            "name": "Categor\u00eda 220",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 321,
+                    "name": "Categor\u00eda 320",
+                    "father_id": 221,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 339,
+                            "name": "Categor\u00eda 338",
+                            "father_id": 321,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 368,
+                                    "name": "Categor\u00eda 367",
+                                    "father_id": 339,
+                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 482,
+                                            "name": "Categor\u00eda 481",
+                                            "father_id": 368,
+                                            "created_at": "2022-11-18T10:26:08.000000Z",
+                                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                                            "childrens_recursive": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 456,
+                    "name": "Categor\u00eda 455",
+                    "father_id": 221,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 227,
+            "name": "Categor\u00eda 226",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 229,
+            "name": "Categor\u00eda 228",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 278,
+                    "name": "Categor\u00eda 277",
+                    "father_id": 229,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 324,
+                    "name": "Categor\u00eda 323",
+                    "father_id": 229,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 370,
+                            "name": "Categor\u00eda 369",
+                            "father_id": 324,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Categor\u00eda 23",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 281,
+                    "name": "Categor\u00eda 280",
+                    "father_id": 24,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 331,
+                            "name": "Categor\u00eda 330",
+                            "father_id": 281,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 236,
+            "name": "Categor\u00eda 235",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 242,
+            "name": "Categor\u00eda 241",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 320,
+                    "name": "Categor\u00eda 319",
+                    "father_id": 242,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 326,
+                    "name": "Categor\u00eda 325",
+                    "father_id": 242,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 381,
+                    "name": "Categor\u00eda 380",
+                    "father_id": 242,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 245,
+            "name": "Categor\u00eda 244",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 251,
+            "name": "Categor\u00eda 250",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 260,
+            "name": "Categor\u00eda 259",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 290,
+                    "name": "Categor\u00eda 289",
+                    "father_id": 260,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 261,
+            "name": "Categor\u00eda 260",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 287,
+                    "name": "Categor\u00eda 286",
+                    "father_id": 261,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 377,
+                            "name": "Categor\u00eda 376",
+                            "father_id": 287,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                },
+                {
+                    "id": 452,
+                    "name": "Categor\u00eda 451",
+                    "father_id": 261,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 484,
+                            "name": "Categor\u00eda 483",
+                            "father_id": 452,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 265,
+            "name": "Categor\u00eda 264",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 266,
+            "name": "Categor\u00eda 265",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 311,
+                    "name": "Categor\u00eda 310",
+                    "father_id": 266,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 267,
+            "name": "Categor\u00eda 266",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 269,
+            "name": "Categor\u00eda 268",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 402,
+                    "name": "Categor\u00eda 401",
+                    "father_id": 269,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 415,
+                    "name": "Categor\u00eda 414",
+                    "father_id": 269,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 273,
+            "name": "Categor\u00eda 272",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 399,
+                    "name": "Categor\u00eda 398",
+                    "father_id": 273,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 274,
+            "name": "Categor\u00eda 273",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 275,
+            "name": "Categor\u00eda 274",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 276,
+            "name": "Categor\u00eda 275",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 424,
+                    "name": "Categor\u00eda 423",
+                    "father_id": 276,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 280,
+            "name": "Categor\u00eda 279",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 285,
+            "name": "Categor\u00eda 284",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 327,
+                    "name": "Categor\u00eda 326",
+                    "father_id": 285,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 375,
+                            "name": "Categor\u00eda 374",
+                            "father_id": 327,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                },
+                {
+                    "id": 429,
+                    "name": "Categor\u00eda 428",
+                    "father_id": 285,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Categor\u00eda 29",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 223,
+                    "name": "Categor\u00eda 222",
+                    "father_id": 30,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 296,
+                    "name": "Categor\u00eda 295",
+                    "father_id": 30,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 291,
+            "name": "Categor\u00eda 290",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 292,
+            "name": "Categor\u00eda 291",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 295,
+            "name": "Categor\u00eda 294",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 31,
+            "name": "Categor\u00eda 30",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 93,
+                    "name": "Categor\u00eda 92",
+                    "father_id": 31,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 107,
+                            "name": "Categor\u00eda 106",
+                            "father_id": 93,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 342,
+                                    "name": "Categor\u00eda 341",
+                                    "father_id": 107,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 301,
+            "name": "Categor\u00eda 300",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 392,
+                    "name": "Categor\u00eda 391",
+                    "father_id": 301,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 457,
+                            "name": "Categor\u00eda 456",
+                            "father_id": 392,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 303,
+            "name": "Categor\u00eda 302",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 306,
+                    "name": "Categor\u00eda 305",
+                    "father_id": 303,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 467,
+                            "name": "Categor\u00eda 466",
+                            "father_id": 306,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 307,
+            "name": "Categor\u00eda 306",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 308,
+            "name": "Categor\u00eda 307",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 309,
+            "name": "Categor\u00eda 308",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 400,
+                    "name": "Categor\u00eda 399",
+                    "father_id": 309,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Categor\u00eda 31",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 103,
+                    "name": "Categor\u00eda 102",
+                    "father_id": 32,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 149,
+                            "name": "Categor\u00eda 148",
+                            "father_id": 103,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 426,
+                                    "name": "Categor\u00eda 425",
+                                    "father_id": 149,
+                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 218,
+                    "name": "Categor\u00eda 217",
+                    "father_id": 32,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 406,
+                            "name": "Categor\u00eda 405",
+                            "father_id": 218,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 312,
+            "name": "Categor\u00eda 311",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 313,
+            "name": "Categor\u00eda 312",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 317,
+            "name": "Categor\u00eda 316",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 374,
+                    "name": "Categor\u00eda 373",
+                    "father_id": 317,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 379,
+                    "name": "Categor\u00eda 378",
+                    "father_id": 317,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 432,
+                            "name": "Categor\u00eda 431",
+                            "father_id": 379,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 329,
+            "name": "Categor\u00eda 328",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 333,
+            "name": "Categor\u00eda 332",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 334,
+            "name": "Categor\u00eda 333",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 335,
+            "name": "Categor\u00eda 334",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 410,
+                    "name": "Categor\u00eda 409",
+                    "father_id": 335,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 336,
+            "name": "Categor\u00eda 335",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 340,
+            "name": "Categor\u00eda 339",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 341,
+            "name": "Categor\u00eda 340",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 344,
+            "name": "Categor\u00eda 343",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 345,
+            "name": "Categor\u00eda 344",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 346,
+            "name": "Categor\u00eda 345",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 349,
+            "name": "Categor\u00eda 348",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 355,
+            "name": "Categor\u00eda 354",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 357,
+            "name": "Categor\u00eda 356",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 449,
+                    "name": "Categor\u00eda 448",
+                    "father_id": 357,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 359,
+            "name": "Categor\u00eda 358",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 360,
+            "name": "Categor\u00eda 359",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 37,
+            "name": "Categor\u00eda 36",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 264,
+                    "name": "Categor\u00eda 263",
+                    "father_id": 37,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 365,
+                            "name": "Categor\u00eda 364",
+                            "father_id": 264,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 364,
+            "name": "Categor\u00eda 363",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 38,
+            "name": "Categor\u00eda 37",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 48,
+                    "name": "Categor\u00eda 47",
+                    "father_id": 38,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 373,
+            "name": "Categor\u00eda 372",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 376,
+            "name": "Categor\u00eda 375",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 380,
+            "name": "Categor\u00eda 379",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 476,
+                    "name": "Categor\u00eda 475",
+                    "father_id": 380,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 383,
+            "name": "Categor\u00eda 382",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 384,
+            "name": "Categor\u00eda 383",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 385,
+            "name": "Categor\u00eda 384",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 436,
+                    "name": "Categor\u00eda 435",
+                    "father_id": 385,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 395,
+            "name": "Categor\u00eda 394",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 497,
+                    "name": "Categor\u00eda 496",
+                    "father_id": 395,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Categor\u00eda 4",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 10,
+                    "name": "Categor\u00eda 9",
+                    "father_id": 5,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 40,
+                            "name": "Categor\u00eda 39",
+                            "father_id": 10,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 41,
+                                    "name": "Categor\u00eda 40",
+                                    "father_id": 40,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 401,
+            "name": "Categor\u00eda 400",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 403,
+            "name": "Categor\u00eda 402",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 405,
+            "name": "Categor\u00eda 404",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 408,
+            "name": "Categor\u00eda 407",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 422,
+                    "name": "Categor\u00eda 421",
+                    "father_id": 408,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 409,
+            "name": "Categor\u00eda 408",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 411,
+            "name": "Categor\u00eda 410",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 412,
+            "name": "Categor\u00eda 411",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 416,
+            "name": "Categor\u00eda 415",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 418,
+            "name": "Categor\u00eda 417",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 437,
+                    "name": "Categor\u00eda 436",
+                    "father_id": 418,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 419,
+            "name": "Categor\u00eda 418",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 43,
+            "name": "Categor\u00eda 42",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 202,
+                    "name": "Categor\u00eda 201",
+                    "father_id": 43,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 435,
+            "name": "Categor\u00eda 434",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 439,
+            "name": "Categor\u00eda 438",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 442,
+            "name": "Categor\u00eda 441",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 443,
+            "name": "Categor\u00eda 442",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 444,
+            "name": "Categor\u00eda 443",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 499,
+                    "name": "Categor\u00eda 498",
+                    "father_id": 444,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 451,
+            "name": "Categor\u00eda 450",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 462,
+            "name": "Categor\u00eda 461",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 463,
+            "name": "Categor\u00eda 462",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 464,
+            "name": "Categor\u00eda 463",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 466,
+            "name": "Categor\u00eda 465",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 469,
+            "name": "Categor\u00eda 468",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 470,
+            "name": "Categor\u00eda 469",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 479,
+            "name": "Categor\u00eda 478",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 49,
+            "name": "Categor\u00eda 48",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 53,
+                    "name": "Categor\u00eda 52",
+                    "father_id": 49,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 253,
+                    "name": "Categor\u00eda 252",
+                    "father_id": 49,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 453,
+                            "name": "Categor\u00eda 452",
+                            "father_id": 253,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                },
+                {
+                    "id": 255,
+                    "name": "Categor\u00eda 254",
+                    "father_id": 49,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 486,
+                            "name": "Categor\u00eda 485",
+                            "father_id": 255,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                },
+                {
+                    "id": 332,
+                    "name": "Categor\u00eda 331",
+                    "father_id": 49,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 448,
+                            "name": "Categor\u00eda 447",
+                            "father_id": 332,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 481,
+            "name": "Categor\u00eda 480",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 485,
+            "name": "Categor\u00eda 484",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 487,
+            "name": "Categor\u00eda 486",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 488,
+            "name": "Categor\u00eda 487",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 489,
+            "name": "Categor\u00eda 488",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 50,
+            "name": "Categor\u00eda 49",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 127,
+                    "name": "Categor\u00eda 126",
+                    "father_id": 50,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 138,
+                            "name": "Categor\u00eda 137",
+                            "father_id": 127,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 447,
+                                    "name": "Categor\u00eda 446",
+                                    "father_id": 138,
+                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 465,
+                                            "name": "Categor\u00eda 464",
+                                            "father_id": 447,
+                                            "created_at": "2022-11-18T10:26:08.000000Z",
+                                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                                            "childrens_recursive": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 492,
+            "name": "Categor\u00eda 491",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 493,
+            "name": "Categor\u00eda 492",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 494,
+            "name": "Categor\u00eda 493",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 498,
+            "name": "Categor\u00eda 497",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:08.000000Z",
+            "updated_at": "2022-11-18T10:26:08.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 54,
+            "name": "Categor\u00eda 53",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 70,
+                    "name": "Categor\u00eda 69",
+                    "father_id": 54,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 141,
+                            "name": "Categor\u00eda 140",
+                            "father_id": 70,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 231,
+                                    "name": "Categor\u00eda 230",
+                                    "father_id": 141,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 106,
+                    "name": "Categor\u00eda 105",
+                    "father_id": 54,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 119,
+                            "name": "Categor\u00eda 118",
+                            "father_id": 106,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 195,
+                                    "name": "Categor\u00eda 194",
+                                    "father_id": 119,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Categor\u00eda 54",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 100,
+                    "name": "Categor\u00eda 99",
+                    "father_id": 55,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 315,
+                            "name": "Categor\u00eda 314",
+                            "father_id": 100,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                },
+                {
+                    "id": 185,
+                    "name": "Categor\u00eda 184",
+                    "father_id": 55,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 212,
+                            "name": "Categor\u00eda 211",
+                            "father_id": 185,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 382,
+                                    "name": "Categor\u00eda 381",
+                                    "father_id": 212,
+                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 391,
+                                            "name": "Categor\u00eda 390",
+                                            "father_id": 382,
+                                            "created_at": "2022-11-18T10:26:08.000000Z",
+                                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                                            "childrens_recursive": [
+                                                {
+                                                    "id": 490,
+                                                    "name": "Categor\u00eda 489",
+                                                    "father_id": 391,
+                                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                                    "childrens_recursive": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 366,
+                    "name": "Categor\u00eda 365",
+                    "father_id": 55,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Categor\u00eda 55",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 125,
+                    "name": "Categor\u00eda 124",
+                    "father_id": 56,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 177,
+                            "name": "Categor\u00eda 176",
+                            "father_id": 125,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 189,
+                                    "name": "Categor\u00eda 188",
+                                    "father_id": 177,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 398,
+                                            "name": "Categor\u00eda 397",
+                                            "father_id": 189,
+                                            "created_at": "2022-11-18T10:26:08.000000Z",
+                                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                                            "childrens_recursive": [
+                                                {
+                                                    "id": 445,
+                                                    "name": "Categor\u00eda 444",
+                                                    "father_id": 398,
+                                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                                    "childrens_recursive": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 129,
+                    "name": "Categor\u00eda 128",
+                    "father_id": 56,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 137,
+                            "name": "Categor\u00eda 136",
+                            "father_id": 129,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 163,
+                                    "name": "Categor\u00eda 162",
+                                    "father_id": 137,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 318,
+                                            "name": "Categor\u00eda 317",
+                                            "father_id": 163,
+                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                            "childrens_recursive": [
+                                                {
+                                                    "id": 428,
+                                                    "name": "Categor\u00eda 427",
+                                                    "father_id": 318,
+                                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                                    "childrens_recursive": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 208,
+                    "name": "Categor\u00eda 207",
+                    "father_id": 56,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 325,
+                            "name": "Categor\u00eda 324",
+                            "father_id": 208,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 425,
+                                    "name": "Categor\u00eda 424",
+                                    "father_id": 325,
+                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 241,
+                    "name": "Categor\u00eda 240",
+                    "father_id": 56,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 271,
+                            "name": "Categor\u00eda 270",
+                            "father_id": 241,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 354,
+                                    "name": "Categor\u00eda 353",
+                                    "father_id": 271,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 407,
+                                            "name": "Categor\u00eda 406",
+                                            "father_id": 354,
+                                            "created_at": "2022-11-18T10:26:08.000000Z",
+                                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                                            "childrens_recursive": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Categor\u00eda 57",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 76,
+                    "name": "Categor\u00eda 75",
+                    "father_id": 58,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Categor\u00eda 58",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 86,
+                    "name": "Categor\u00eda 85",
+                    "father_id": 59,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 225,
+                            "name": "Categor\u00eda 224",
+                            "father_id": 86,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                },
+                {
+                    "id": 126,
+                    "name": "Categor\u00eda 125",
+                    "father_id": 59,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 235,
+                            "name": "Categor\u00eda 234",
+                            "father_id": 126,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 246,
+                                    "name": "Categor\u00eda 245",
+                                    "father_id": 235,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 258,
+                                            "name": "Categor\u00eda 257",
+                                            "father_id": 246,
+                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                            "childrens_recursive": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 224,
+                    "name": "Categor\u00eda 223",
+                    "father_id": 59,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 230,
+                            "name": "Categor\u00eda 229",
+                            "father_id": 224,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Categor\u00eda 6",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 9,
+                    "name": "Categor\u00eda 8",
+                    "father_id": 7,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 14,
+                            "name": "Categor\u00eda 13",
+                            "father_id": 9,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 60,
+                                    "name": "Categor\u00eda 59",
+                                    "father_id": 14,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 65,
+                                            "name": "Categor\u00eda 64",
+                                            "father_id": 60,
+                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                            "childrens_recursive": [
+                                                {
+                                                    "id": 73,
+                                                    "name": "Categor\u00eda 72",
+                                                    "father_id": 65,
+                                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                                    "childrens_recursive": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 46,
+                    "name": "Categor\u00eda 45",
+                    "father_id": 7,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 92,
+                            "name": "Categor\u00eda 91",
+                            "father_id": 46,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 97,
+                                    "name": "Categor\u00eda 96",
+                                    "father_id": 92,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 450,
+                    "name": "Categor\u00eda 449",
+                    "father_id": 7,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 455,
+                            "name": "Categor\u00eda 454",
+                            "father_id": 450,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Categor\u00eda 60",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 74,
+                    "name": "Categor\u00eda 73",
+                    "father_id": 61,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 101,
+                    "name": "Categor\u00eda 100",
+                    "father_id": 61,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 220,
+                    "name": "Categor\u00eda 219",
+                    "father_id": 61,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 330,
+                    "name": "Categor\u00eda 329",
+                    "father_id": 61,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 397,
+                            "name": "Categor\u00eda 396",
+                            "father_id": 330,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Categor\u00eda 61",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 150,
+                    "name": "Categor\u00eda 149",
+                    "father_id": 62,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 268,
+                            "name": "Categor\u00eda 267",
+                            "father_id": 150,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 386,
+                                    "name": "Categor\u00eda 385",
+                                    "father_id": 268,
+                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 423,
+                    "name": "Categor\u00eda 422",
+                    "father_id": 62,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 431,
+                            "name": "Categor\u00eda 430",
+                            "father_id": 423,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Categor\u00eda 62",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 77,
+                    "name": "Categor\u00eda 76",
+                    "father_id": 63,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 110,
+                            "name": "Categor\u00eda 109",
+                            "father_id": 77,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 113,
+                                    "name": "Categor\u00eda 112",
+                                    "father_id": 110,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 159,
+                                            "name": "Categor\u00eda 158",
+                                            "father_id": 113,
+                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                            "childrens_recursive": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 96,
+                    "name": "Categor\u00eda 95",
+                    "father_id": 63,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 286,
+                    "name": "Categor\u00eda 285",
+                    "father_id": 63,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Categor\u00eda 63",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 72,
+                    "name": "Categor\u00eda 71",
+                    "father_id": 64,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 203,
+                            "name": "Categor\u00eda 202",
+                            "father_id": 72,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 277,
+                                    "name": "Categor\u00eda 276",
+                                    "father_id": 203,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 472,
+                                            "name": "Categor\u00eda 471",
+                                            "father_id": 277,
+                                            "created_at": "2022-11-18T10:26:08.000000Z",
+                                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                                            "childrens_recursive": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 394,
+                    "name": "Categor\u00eda 393",
+                    "father_id": 64,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 474,
+                    "name": "Categor\u00eda 473",
+                    "father_id": 64,
+                    "created_at": "2022-11-18T10:26:08.000000Z",
+                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Categor\u00eda 66",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 118,
+                    "name": "Categor\u00eda 117",
+                    "father_id": 67,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 135,
+                            "name": "Categor\u00eda 134",
+                            "father_id": 118,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 243,
+                                    "name": "Categor\u00eda 242",
+                                    "father_id": 135,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 262,
+                    "name": "Categor\u00eda 261",
+                    "father_id": 67,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 263,
+                            "name": "Categor\u00eda 262",
+                            "father_id": 262,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 348,
+                                    "name": "Categor\u00eda 347",
+                                    "father_id": 263,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 350,
+                    "name": "Categor\u00eda 349",
+                    "father_id": 67,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Categor\u00eda 74",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 244,
+                    "name": "Categor\u00eda 243",
+                    "father_id": 75,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                },
+                {
+                    "id": 297,
+                    "name": "Categor\u00eda 296",
+                    "father_id": 75,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Categor\u00eda 77",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        },
+        {
+            "id": 80,
+            "name": "Categor\u00eda 79",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 279,
+                    "name": "Categor\u00eda 278",
+                    "father_id": 80,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 378,
+                            "name": "Categor\u00eda 377",
+                            "father_id": 279,
+                            "created_at": "2022-11-18T10:26:08.000000Z",
+                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Categor\u00eda 81",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 216,
+                    "name": "Categor\u00eda 215",
+                    "father_id": 82,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "name": "Categor\u00eda 90",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 226,
+                    "name": "Categor\u00eda 225",
+                    "father_id": 91,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "name": "Categor\u00eda 94",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": [
+                {
+                    "id": 98,
+                    "name": "Categor\u00eda 97",
+                    "father_id": 95,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 128,
+                            "name": "Categor\u00eda 127",
+                            "father_id": 98,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": [
+                                {
+                                    "id": 133,
+                                    "name": "Categor\u00eda 132",
+                                    "father_id": 128,
+                                    "created_at": "2022-11-18T10:26:07.000000Z",
+                                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                                    "childrens_recursive": [
+                                        {
+                                            "id": 310,
+                                            "name": "Categor\u00eda 309",
+                                            "father_id": 133,
+                                            "created_at": "2022-11-18T10:26:07.000000Z",
+                                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                                            "childrens_recursive": [
+                                                {
+                                                    "id": 389,
+                                                    "name": "Categor\u00eda 388",
+                                                    "father_id": 310,
+                                                    "created_at": "2022-11-18T10:26:08.000000Z",
+                                                    "updated_at": "2022-11-18T10:26:08.000000Z",
+                                                    "childrens_recursive": [
+                                                        {
+                                                            "id": 459,
+                                                            "name": "Categor\u00eda 458",
+                                                            "father_id": 389,
+                                                            "created_at": "2022-11-18T10:26:08.000000Z",
+                                                            "updated_at": "2022-11-18T10:26:08.000000Z",
+                                                            "childrens_recursive": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 213,
+                    "name": "Categor\u00eda 212",
+                    "father_id": 95,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": [
+                        {
+                            "id": 250,
+                            "name": "Categor\u00eda 249",
+                            "father_id": 213,
+                            "created_at": "2022-11-18T10:26:07.000000Z",
+                            "updated_at": "2022-11-18T10:26:07.000000Z",
+                            "childrens_recursive": []
+                        }
+                    ]
+                },
+                {
+                    "id": 299,
+                    "name": "Categor\u00eda 298",
+                    "father_id": 95,
+                    "created_at": "2022-11-18T10:26:07.000000Z",
+                    "updated_at": "2022-11-18T10:26:07.000000Z",
+                    "childrens_recursive": []
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "name": "Categor\u00eda 98",
+            "father_id": null,
+            "created_at": "2022-11-18T10:26:07.000000Z",
+            "updated_at": "2022-11-18T10:26:07.000000Z",
+            "childrens_recursive": []
+        }
+    ],
+    "first_page_url": "https:\/\/api-challenge.rodrigorio.me\/api\/categories?page=1",
+    "from": 1,
+    "next_page_url": null,
+    "path": "https:\/\/api-challenge.rodrigorio.me\/api\/categories",
+    "per_page": 500,
+    "prev_page_url": null,
+    "to": 170
+}
